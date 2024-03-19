@@ -1,0 +1,1 @@
+20 initial apples, 10% chance each day to reduce, this is the one used in the report results section as of mon. 6. june 19:22
